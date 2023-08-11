@@ -1,0 +1,4 @@
+import WeatherData
+
+WeatherData.PrintWeatherData()
+
